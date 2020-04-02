@@ -58,7 +58,7 @@
 
   <hr>
   
-  ### Data Science/AI
+### Data Science/AI
 
 - UMich (Coursera), Apr 1: Applied Data Science
 	- https://www.coursera.org/specializations/data-science-python
@@ -164,7 +164,6 @@
 	- https://www.udemy.com/course/complete-tableau-bootcamp-dashboards
 
   
-
 #### Bitcoin
 
 - Princeton (Coursera), Apr 1: Bitcoin

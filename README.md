@@ -1,4 +1,3 @@
-# Fremont Data Science
 ## Interesting MOOC/Classes for Spring/Covid '20
 
 ### Intro CS/Programming

@@ -1,5 +1,5 @@
-# Fremont Data Science / Engineering Group
-## Interesting MOOC/Courses Spring '20
+# Fremont Data Science & Engineering Group
+## Interesting MOOC/Courses for Spring/Covid '20
 
 ### Intro CS/Programming
 

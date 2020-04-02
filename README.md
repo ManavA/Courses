@@ -172,6 +172,5 @@
  - Buffalo (Coursera), Apr 1: Blockchain
 	 - https://www.coursera.org/specializations/blockchain
 
-  
 #### Startups (tbd)
 - http://startupclass.samaltman.com/

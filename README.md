@@ -1,5 +1,5 @@
-## Interesting MOOC/Classes for Spring/Covid '20
 #### Fremont Data Science Group
+## Interesting MOOC/Classes for Spring/Covid '20
 
 ### Intro CS/Programming
 
